@@ -1,0 +1,4 @@
+TYPE=A 
+ NAME=fibonacci.com
+ VALUE=localhost
+ TTL=10
