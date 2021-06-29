@@ -1,5 +1,5 @@
 **Authoritative Server is AS** <br />
-**Fibonacci Server is FS**
+**Fibonacci Server is FS** <br />
 **User Server is US**
 
 The User will interact with the US to find the fibonacci number at a given index.
